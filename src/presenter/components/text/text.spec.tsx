@@ -25,7 +25,6 @@ describe('Text', () => {
       fontFamily: 'System',
       fontSize: 10,
       fontWeight: '400',
-      letterSpacing: 0.07,
       lineHeight: 12,
     });
     expect(tree.getByText('Test').props.style).toContainEqual({
