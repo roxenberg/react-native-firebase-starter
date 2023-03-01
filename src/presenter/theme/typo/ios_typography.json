@@ -1,0 +1,98 @@
+{
+  "$caption01": {
+    "fontFamily": "System",
+    "fontSize": "10rem",
+    "lineHeight": "12rem",
+    "fontWeight": "400",
+    "letterSpacing": "0.07rem"
+  },
+  "$caption02": {
+    "fontFamily": "System",
+    "fontSize": "12rem",
+    "lineHeight": "16rem",
+    "fontWeight": "400"
+  },
+  "$button01": {
+    "fontFamily": "SFProDisplay-Semibold",
+    "fontSize": "12rem",
+    "lineHeight": "16rem",
+    "fontWeight": "600",
+    "letterSpacing": "0.2rem",
+    "textTransform": "uppercase"
+  },
+  "$button02": {
+    "fontFamily": "SFProDisplay-Semibold",
+    "fontSize": "14rem",
+    "lineHeight": "20rem",
+    "fontWeight": "600",
+    "letterSpacing": "0.2rem",
+    "textTransform": "uppercase"
+  },
+  "$button03": {
+    "fontFamily": "SFProDisplay-Semibold",
+    "fontSize": "16rem",
+    "lineHeight": "24rem",
+    "fontWeight": "600",
+    "letterSpacing": "0.2rem",
+    "textTransform": "uppercase"
+  },
+  "$body01": {
+    "fontFamily": "System",
+    "fontSize": "14rem",
+    "lineHeight": "20rem",
+    "fontWeight": "400"
+  },
+  "$body02": {
+    "fontFamily": "System",
+    "fontSize": "16rem",
+    "lineHeight": "24rem",
+    "fontWeight": "400"
+  },
+  "$heading01": {
+    "fontFamily": "System",
+    "fontSize": "12rem",
+    "lineHeight": "16rem",
+    "letterSpacing": "0.2rem",
+    "textTransform": "uppercase",
+    "fontWeight": "600"
+  },
+  "$heading02": {
+    "fontFamily": "System",
+    "fontSize": "14rem",
+    "lineHeight": "20rem",
+    "fontWeight": "600"
+  },
+  "$heading03": {
+    "fontFamily": "System",
+    "fontSize": "16rem",
+    "lineHeight": "24rem",
+    "fontWeight": "600"
+  },
+  "$display01": {
+    "fontFamily": "Pacifico-Regular",
+    "fontSize": "20rem",
+    "lineHeight": "28rem",
+    "fontWeight": "600"
+  },
+  "$display02": {
+    "fontFamily": "Pacifico-Regular",
+    "fontSize": "24rem",
+    "lineHeight": "34rem",
+    "fontWeight": "600",
+    "letterSpacing": "0.35rem"
+  },
+  "$display03": {
+    "fontFamily": "Pacifico-Regular",
+    "fontSize": "32rem",
+    "lineHeight": "45rem",
+    "fontWeight": "600",
+    "letterSpacing": "0.4rem"
+  },
+  "$display04": {
+    "fontFamily": "Pacifico-Regular",
+    "fontSize": "40rem",
+    "lineHeight": "55rem",
+    "fontWeight": "300",
+    "letterSpacing": "0.4rem"
+  }
+}
