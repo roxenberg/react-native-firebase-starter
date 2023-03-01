@@ -1,11 +1,3 @@
-### React Native Firebase Starter
-
-This is starter project for [Roxenberg Workshops](https://patreon.com/roxenberg)
-
-Feel free to use it as a base for your own projects.
-
-
-
 ## Getting Started
 
 Prepare Firebase Config
